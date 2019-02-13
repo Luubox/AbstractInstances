@@ -1,2 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbstractInstances.BadmintonNet" BaseTypeListCollapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAgAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Model\BadmintonNet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AbstractInstances.Bold">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAACAAgAAAIAAAAACAAABAAAAAAA=</HashCode>
+      <FileName>Model\Bold.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AbstractInstances.Fjerbold" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAgAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Fjerbold.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AbstractInstances.Fodbold">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAACAAgAAAIAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Fodbold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractInstances.Haandbold">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAACAAgAAAIAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Haandbold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AbstractInstances.IRedskab">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAgAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IRedskab.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
